@@ -2,4 +2,9 @@ body {
     text-align: center;
     font-family: "century gothic";
     color: green;
+    background-color: cornsilk;
+}
+h1{
+    text-decoration: underline;
+    font-size: larger;
 }
