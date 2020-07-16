@@ -1,10 +1,19 @@
 body {
     text-align: center;
     font-family: "century gothic";
+    font-size: 16px;
+    margin: 0 ;
+    padding: 0;
     color: green;
     background-color: cornsilk;
 }
-h1{
-    text-decoration: underline;
-    font-size: larger;
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    margin: 0 auto;
+    border: 1px solid grey;
+}
+.post{
+    font-size: 20px;
 }
