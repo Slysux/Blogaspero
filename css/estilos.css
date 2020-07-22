@@ -42,3 +42,12 @@ body {
     padding: 1em;
     background-color: cornsilk;
 }
+.footer{
+    padding: 1em;
+    margin: 0px ;
+    color: white;
+    display: flex;
+    background-color: rgb(221, 147, 57);
+    justify-content: center;
+    border: 2px solid cornsilk;
+}
